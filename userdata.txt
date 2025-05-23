@@ -1,2 +1,3 @@
 get the user data 
-and fill the details 
+and fill the details git 
+That how you add data
